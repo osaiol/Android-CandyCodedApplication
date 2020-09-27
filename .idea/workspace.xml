@@ -9,9 +9,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -269,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601241540220</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="initial commit">
+      <created>1601242465083</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601242465083</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -281,10 +286,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1601221281949" />
-    <state x="163" y="0" key="CommitChangelistDialog2" timestamp="1601241514707">
+    <state x="163" y="0" key="CommitChangelistDialog2" timestamp="1601242448095">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="163" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601241514707" />
+    <state x="163" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601242448095" />
     <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1601241782240">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -317,10 +322,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1286" height="204" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1601190689043" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601241564553">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601242966073">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601241564553" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601242966073" />
     <state x="110" y="120" width="1146" height="488" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1601154521384">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
